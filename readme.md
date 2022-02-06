@@ -1,4 +1,4 @@
-# Goland WoL Docker
+# Golang WoL Docker
 
 Simply packages the go-wol package by @sabhiram in a Docker container
 
